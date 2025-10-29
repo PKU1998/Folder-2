@@ -1,5 +1,0 @@
-#Only on Master branch
-print("hello")
-#only on feature branch
-for i in range(1,5,+1):
-    print("Hello")
